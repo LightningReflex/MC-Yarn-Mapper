@@ -1,5 +1,5 @@
 # MC-Yarn-Mapper
-Super cool mapping tool to do stuff like this:
+Super cool mapping tool to turn stuff like this:
 ```
 [13:45:53] [Render thread/WARN]: Ignoring chunk since it's not in the view range: -17, 6
 [13:45:53] [Render thread/WARN]: Ignoring chunk since it's not in the view range: 3, -14
